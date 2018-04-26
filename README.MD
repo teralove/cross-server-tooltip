@@ -1,6 +1,6 @@
 # cross-server-tooltip
 
-Show tooltips for inspecting gear on cross-server players.
+Show tooltips when inspecting gear on cross-server players.
 
 ## Notes
 + Show rolls on gear.
@@ -9,7 +9,7 @@ Show tooltips for inspecting gear on cross-server players.
     + Etchings
     + Effect Sets
 
-So remember, a player might have etchings but they will not show in the tooltip!
+So remember, a player might have etchings but it will not show in the tooltip!
 
 ---
 
